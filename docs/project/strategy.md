@@ -1,6 +1,6 @@
 # **Strategy**
 
-##Target enzymes
+## Target enzymes
 
 Proteins from the NlpC/P60 family were selected as the target for evolution; these proteins participate in cell growth, and their role is to relax peptidoglycan to allow cell growth and division. The NlpC/P60 domain is a papain-like cysteine peptidase domain approximately 100 amino acids long (Anantharaman and Aravind, 2003). These endopeptidases are involved in the cleavage of the N-acetylmuramate-L-alanine or D-γ-glutamyl-mesodiaminopimelate (Ohnishi et al., 1999). Cleavage of covalent bonds by hydrolases is required for PG growth (Typas et al., 2012). 
 
