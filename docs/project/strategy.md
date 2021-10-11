@@ -7,7 +7,9 @@ The aim of our project is to evolve this protein as an effective bacteria-killin
 
 ## The assay
 
-![Peptide](img/Peptide.png){ width=1000px }
+![Beacon](img/beacon scheme.svg){ width=300px }
+
+![Peptide](img/fluorogenic peptide.svg){ width=1000px }
 
 
 ![Evolution_scheme](img/Iteration_cycle.svg){ width=1200px }
