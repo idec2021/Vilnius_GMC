@@ -12,6 +12,8 @@ The selection of the NlpC/P60 peptidase family was driven by the following reaso
 
 We selected two putative proteins: SagA from Enterococcus faecium and LytE from Bacillus subtilis. We also decided to use the standalone Nlpc/P60 domains of SagA and LytE.
 
+![Peptide](img/Peptide.png){ width=1000px }
+
 ## *In vitro* evolution
 
 The aim of our project is to evolve this protein as an effective bacteria-killing agent with the aid of a droplet microfluidics (DµF) platform; this technology allows the generation of large numbers of droplets that each act as single compartments, allowing the screening of large mutant libraries with high frequencies, resulting in a considerable reduction of the time, reaction volumes and the exploration of a larger fraction of the sequence space. This technology has already been successfully applied to evolve enzyme from several classes (Stucki et al., 2021). To this purpose, we developed a microfluidics assay based on a FRET peptide-based molecular beacon mimicking the PG linking peptide of the well-known pathogen *Staphylococcus aureus*.
