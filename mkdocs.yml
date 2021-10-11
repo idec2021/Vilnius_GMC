@@ -1,6 +1,8 @@
 site_name: iDEC 2021 | Vilnius GMC
 
 theme:
+  font:
+    text: Montserrat
   name: material
   logo: img/idec-wiki-logo-white-bg.png
   favicon: img/idec-wiki-logo.png

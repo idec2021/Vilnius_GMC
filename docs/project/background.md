@@ -2,9 +2,9 @@
 
 ## A Brief History of Antibiotic Resistance
 
-<span style="font-family:Rockwell">Threat of bacterial infection has always accompanied humanity. A terrifying and often mythicized example is the bubonic plague that devastated Europe and Asia in the mid 1300s. Only in the age of modern genetics we found that the disease is caused by the bacteria *Yersinia pestis* infection (Demeure et al, 2019). *Y. pestis* is only one of tens of bacterial species pathogenic to humans. With the discovery of penicillin, the golden age of antibiotics began (Chain et al., 2005) and in 1945 penicillin was already mass-produced. From 1950s to the '70s, most of the antibiotic classes today known were discovered (Zaman et al., 2017). During this time antibiotics were regarded as the perfect answer to bacterial infections: they were safe and effective.
+Threat of bacterial infection has always accompanied humanity. A terrifying and often mythicized example is the bubonic plague that devastated Europe and Asia in the mid 1300s. Only in the age of modern genetics we found that the disease is caused by the bacteria *Yersinia pestis* infection (Demeure et al, 2019). *Y. pestis* is only one of tens of bacterial species pathogenic to humans. With the discovery of penicillin, the golden age of antibiotics began (Chain et al., 2005) and in 1945 penicillin was already mass-produced. From 1950s to the '70s, most of the antibiotic classes today known were discovered (Zaman et al., 2017). During this time antibiotics were regarded as the perfect answer to bacterial infections: they were safe and effective.
 However, unregulated use of antibiotics eventually led to the emergence of resistant bacterial strains (Aminov, 2010). The level of antibiotic-resistant infections was found to be strongly correlated with the degree of antibiotic consumption (Goossens et al., 2005). Bacteria develop antibiotic resistance using various mechanisms: hydrolysis, efflux, altered target, chemical modification (Zaman et al., 2017). United States’ Centers for Disease Control and Prevention estimates that in the US more than 35000 people die each year of antibiotic resistant infections. Estimated cost of treatment of multi-drug resistant pathogens in US is estimated $4.6 billion (Nelson et al., 2021). 
-As fewer new antibiotics are commercialised and multidrug resistance develops, new antibacterial agents are necessary.</span>
+As fewer new antibiotics are commercialised and multidrug resistance develops, new antibacterial agents are necessary.
 
 ## Resistance Wars: A New Hope
 
@@ -13,5 +13,17 @@ As fewer new antibiotics are commercialised and multidrug resistance develops, n
 ## The Wall
 
 Peptidoglycan is the main component of bacterial cell wall; it consists of a sugar backbone chain interlinked by short peptides. While the sugar backbone is universal for all bacteria, its structure and interlinking peptides varies depending on bacteria taxon (Schleifer and Kandler, 1972). Phage lytic enzymes – endolysins – targeting PG sugars have been shown to reduce bacteria growth in vitro and in vivo, and their use as antimicrobial agents has advanced to the stage of clinical trials (Abdelkader et al., 2019; Vermassen et al., 2019).  Most enzymes under development to this purpose target the sugar backbone of PG, while those targeting PG interlinking peptides have been overlooked (Vermassen et al., 2019). Development of antimicrobial enzymes with endopeptidase activity could broaden the arsenal of know enzymatic antibacterial agents; such peptidase could be developed to target a specific range of bacteria by targeting a specific peptide. In addition, peptidoglycan-associated peptides contain D-amino acids, which are not present in mammalian proteins. Therefore, targeting D-L peptides may contribute to safe use in animals. Large part of phage lysins in nature are modular – having multiple domains with different functions (Vermassen et al., 2019). By combining modules with different enzymatic and peptidoglycan binding activities new desired antibacterial agents can be developed (Gerstmans et al., 2020).
+
+## Target enzymes
+
+Proteins from the NlpC/P60 family were selected as the target for evolution; these proteins participate in cell growth, and their role is to relax peptidoglycan to allow cell growth and division. The NlpC/P60 domain is a papain-like cysteine peptidase domain approximately 100 amino acids long (Anantharaman and Aravind, 2003). These endopeptidases are involved in the cleavage of the N-acetylmuramate-L-alanine or D-γ-glutamyl-mesodiaminopimelate (Ohnishi et al., 1999). Cleavage of covalent bonds by hydrolases is required for PG growth (Typas et al., 2012). 
+
+The selection of the NlpC/P60 peptidase family was driven by the following reasons:
+
+* Posibility to be evolved to act as efficient peptidoglycan lysis enzymes;
+* Specificity to peptodoglycan peptides;
+* Small size, appealing for use in medicine and biotechnology.
+
+We selected two putative proteins: SagA from Enterococcus faecium and LytE from Bacillus subtilis. We also decided to use the standalone Nlpc/P60 domains of SagA and LytE.
 
 # **References**
