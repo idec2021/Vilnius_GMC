@@ -13,6 +13,8 @@ Genes were cloned in pKTCTET-0-Kan vector containing a C-terminal 6His-tag (Obex
 
 Purified enzyme fractions have been used to test activity in microtiter plate assay. This proof-of-concept experiment shows that an NlpC/P60 domain can cut synthetic peptide generating fluorescent signal over background. Since starting protein activity is low (after a few hours reaction continues) it is a good starting point to test proposed directed evolution method.
 
+![Microtitter_assay](img/Microtitter.jpeg){ width=1000px }
+
 ## Endopeptidase assay in droplets
 
 Following the test in microtiter plate, a solution of assay buffer containing the enzyme (Fig 3A) and a control solution of assay buffer without the enzyme (Fig 3B) were encapsulated to verify the functionality of the enzyme assay in droplets and imaged after overnight incubation at 37°C. 

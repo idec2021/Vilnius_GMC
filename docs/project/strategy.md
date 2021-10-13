@@ -9,7 +9,7 @@ The aim of our project is to evolve this protein as an effective bacteria-killin
 
 ![Beacon](img/beacon scheme.svg){ width=300px }
 
-![Peptide](img/fluorogenic peptide.svg){ width=1000px }
+![Peptide](img/fluorogenic peptide.svg){ width=500px }
 
 
 ![Evolution_scheme](img/Iteration_cycle.svg){ width=1200px }
@@ -19,3 +19,6 @@ The aim of our project is to evolve this protein as an effective bacteria-killin
 ## Validation
 
 Starting protein and final product of evolution will be then used to perform *in vivo* assays to assess the activity of impairing *Staphylococcus aureus* growth in solution.
+
+![Peptidoglycan](img/peptidoglycan.svg){ width=1200px }
+
