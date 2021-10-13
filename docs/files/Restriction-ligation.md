@@ -5,7 +5,9 @@ Digest DNA using FastDigest NdeI and XhoI according to the manufacturer protocol
 <br />1 µl of NdeI and XhoI
 <br />Water up to 20 µl
 <br />
-<br />Incubated at 37° C for 1 hour.
+<br />Incubated at 37° C for 1-2 hours.
+<br />
+<br />1 µl of alkaline fosthatase (1U/µl) is added to the digestion reaction of vector and incubated for 15 minutes at 37 °C. 
 <br />
 <br />After restriction, the fragments were separated on gel and extracted using Thermo Fisher Scientific GeneJET Gel Extraction Kit and subsequently ligated using T4 DNA ligase in a backbone to insert 3:1 molar ratio:
 <br />

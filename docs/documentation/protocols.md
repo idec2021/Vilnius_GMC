@@ -10,6 +10,8 @@
 
 - [Gel electrophoresis](../files/Gel electrophoresis.md){: target="_blank" }
 
+- [Plasmid amplification](../files/Plasmid amplification.md){: target="_blank" }
+
 - [Multiple sequence alignment](../files/Multiple sequence alignment.md){: target="_blank" }
 
 - [Protein expression](../files/Protein expression.md){: target="_blank" }
