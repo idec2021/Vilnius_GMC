@@ -1,0 +1,1 @@
+E. coli BL-21 (DE3) is transformed with plasmid harbouring genes of interest and night cultures are prepared. LB medium  supplemented with 50 µg/ml kanamycin is inoculated with 1/30 volume of night cultures and incubated at 37 °C, 200 rpm until OD600 reached 0.5. Expression is induced by adding 1 mM IPTG and incubated for 3 hours under the same conditions.

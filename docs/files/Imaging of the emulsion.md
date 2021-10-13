@@ -1,0 +1,1 @@
+Imaging of the emulsion was carried out on a Nikon inverted fluorescence microscope using FITC filters (FITC filter cube, ThorLabs) to visualise fluorescence from FAM. The sample were irradiated with a blue LED source using 20% intensity, 100 ms exposure time and gain 7.6 or gain 1 using 10x magnification. 
