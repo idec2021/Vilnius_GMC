@@ -5,8 +5,8 @@
 
 The aim of our project is to evolve this endolysins as an effective bacteria-killing agent with the aid of a droplet microfluidics (DµF) platform; this technology allows the generation of large numbers of droplets that each act as single compartments, allowing the screening of large mutant libraries at high frequencies, resulting in a considerable reduction of the time, reaction volumes and the exploration of a larger fraction of the sequence space. This technology has already been successfully applied to evolve enzyme from several classes (Stucki et al., 2021). 
 
-<span style="font-size: 12px">Figure 1. Microfluidics set up.<span>
-
+![droplet microfluidics schem](img/droplet microfluidics scheme.svg){ width=1000px }
+<span style="font-size: 12px">Figure 1. Droplets microfluidics principles.<span>
 ## <span style="font-family:Source Code pro">The assay</span>
 
 To this purpose, we developed a microfluidics assay based on a FRET peptide-based molecular beacon mimicking the PG linking peptide of the well-known pathogen *Staphylococcus aureus*. When such peptide is cut by the enzyme, the fluorophore and quencher parts of the molecule are separated and fluorescence is no no longer quenched, generating fluorescent signal detecable over background.
