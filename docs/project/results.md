@@ -35,10 +35,10 @@ Purified SagAP60 and RA control were used on a suspension of *S. aureus* to test
 
 From the results it appears that the added proteins have a positive effect on growth compared to negative control: we believe this is due to the fact that they were added to the assay as glycerol stocks, providing an additional carbon source we haven’t accounted for, with a 4% glycerol final concentration in the well. For this reason, this test will be repeated using dialysed protein sample.
 
-The assay was repeated with re-purified proteins after the submission of the report (Figure 6). Even though the addition of SagAP60 impacted cell growth negatively (compared to negative control and RA), the difference may be insignificant. It also appears that RA impacts cell growth positively in some unknown mechanism. It is unclear why this is observed. At this point, it is clear that for evaluating lytic activity on live cells an active site mutant control will be needed. Also, it is apparent, that SagAP60 does not lyse S. aureus cell wall efficiently. This is probably explained by the low activity of enzymes which may be increased by directed evolution.
+Even though the addition of SagAP60 impacted cell growth negatively (compared to negative control and RA), the difference may be insignificant (Figure 6). It also appears that RA impacts cell growth positively in some unknown mechanism. It is unclear why this is observed. At this point, it is clear that for evaluating lytic activity on live cells an active site mutant control will be needed. Also, it is apparent, that SagAP60 does not lyse S. aureus cell wall efficiently. This is probably explained by the low activity of enzymes which may be increased by directed evolution.
 
 ![aureus_plot_4](img/aureus_plot_4.png){ width=1000px }
-<span style="font-size: 12px">Figure 6. *S. aureus* growth inhibition assay. Blue – background (buffer); Cyan – RA control; Green - SagAP60; Yellow – cell negative control, without any enzyme added.<span>
+<span style="font-size: 12px">Figure 6. *S. aureus* growth inhibition assay. Blue – background (buffer); Cyan – RA control; Green - SagAP60; Yellow – cell negative control, without any enzyme added. This assay was performed using re-purified proteins after the submission of the report.<span>
 
 ## <span style="font-family:Source Code pro">Discussion</span>
 

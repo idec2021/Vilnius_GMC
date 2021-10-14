@@ -25,7 +25,7 @@ Peptidoglycan is the main component of bacterial cell wall (Fig 2).; it consists
 
 ## <span style="font-family:Source Code pro">X-zymes: targets for mutagenesis and evolution</span>
 
-Proteins from the NlpC/P60 family were selected as the target for evolution. These proteins participate in cell growth by relaxing peptidoglycan, necessary to allow cell growth and division (Typas et al., 2012), and they usually harbour aditional domains. SagA use coiled coil domain for localization at cell division terminus (Espinosa et al., 2020; Hyun et al., 2021), while three LysM-domain repeats in LytE ensure affinity ro peptidoglycan (Visweswaran et al., 2014).
+Proteins from the NlpC/P60 family were selected as the target for evolution. These proteins, referd as autolysins, participate in cell growth by relaxing peptidoglycan, necessary to allow cell growth and division (Typas et al., 2012), and they usually harbour aditional domains. SagA use coiled coil domain for localization at cell division terminus (Espinosa et al., 2020; Hyun et al., 2021), while three LysM-domain repeats in LytE ensure affinity ro peptidoglycan (Visweswaran et al., 2014).
 The goal of this project is to evolve only the NlpC/p60 domain either as s stand-alone protein or fused to native peptidoglycan binding domain. The NlpC/P60 domain is a papain-like cysteine peptidase domain approximately 100 amino acids long (Anantharaman and Aravind, 2003). These endopeptidases are involved in the cleavage of the N-acetylmuramate-L-alanine or D-γ-glutamyl-mesodiaminopimelate (Ohnishi et al., 1999).
 
 The selection of the NlpC/P60 peptidase family was driven for three main reasons:
@@ -34,7 +34,7 @@ The selection of the NlpC/P60 peptidase family was driven for three main reasons
 * Specificity to peptidoglycan DL-peptides;
 * Small size of NlpC/P60 domain, appealing for use in medicine and biotechnology.
 
-We selected two putative endolysins: SagA from *Enterococcus faecium* and LytE from *Bacillus subtilis*. We also decided to use the standalone NlpC/P60 domains of SagA and LytE.
+We selected two putative autolysins: SagA from *Enterococcus faecium* and LytE from *Bacillus subtilis*. We also decided to use the standalone NlpC/P60 domains of SagA and LytE. With our project, we aim to perform evolution on the autolysin to make it suitable to act as an endolysin against *S. aureus*.
 
 ![Proteins](img/proteins.png){ width=1000px }
 <span style="font-size: 12px">Figure 3. A) Alphafold2 model of SagA protein. NlpC/P60 domain is yellow, coiled-coil – purple. Protein is also rich in unstructured loops, which are colored in grey. B) Alphafold2 model of LytE protein. NlpC/P60 domain is yellow, LysM repeats are green. C) Crystal structure of SagA NlpC/P602 domain, PDB ID: 6B8C. D) Alphafold2 model of LytE NlpC/P60 domain.<span>
