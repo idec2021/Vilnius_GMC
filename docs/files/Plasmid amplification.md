@@ -1,0 +1,1 @@
+*E. coli* are transformed with the plasmid of interest, the next day a single colony is picked and 4 ml of LB medium is inoculated. Cells are grown overnight. The next day plasmid is purified using GeneJET Plasmid Miniprep Kit according to the manufacturer's instructions.

@@ -1,0 +1,1 @@
+Reactions were set up by preparing a reaction buffer containing a 25 mM HEPES, 100 mM NaCl, pH 7.5 and 50 µM of target peptide. Reactions were started by adding 5 µM of RA or SagAP60 protein to a final reaction volume of 20 µl in a 384-well microtiter plate incubated at 37°C. Fluorescence was measure at excitation/emission 489/522 nm at 5’ intervals. 
