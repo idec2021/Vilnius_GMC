@@ -10,20 +10,24 @@ As fewer new antibiotics are commercialised and multidrug resistance develops, n
 
 As fewer new antibiotics are commercialised and multidrug resistance develops, new antibacterial agents are necessary. As conventional antibiotics proved to be unreliable attention was drawn to bacteriophages and their lytic enzymes. Phage therapy is gaining a second wind in Western medicine. Even though phage therapy is still in it's infancy, trials conducted so far have reported no adverse effects concerning the use of phages, which corresponds to observations in mice (Melo et al., 2020). Usage of phages may pose other threat - phages are prone to develop antiviral resistance (Gao Linyi et al., 2020; Koonin et al., 2017). To tackle the problem of bacterial infection different strategies have to be employed. An alternative to phage therapy is using a phage lytic enzyme that is usually is further engineered. Such enzymes possess bacterial cell wall-degrading activity and are used by phages to escape the cell (Vázquez et al., 2018).
 
-## The Wall
+## Ala-D-isoGln-Lys-D-Ala-D-Ala: Another Brick In The Wall
 
 Peptidoglycan is the main component of bacterial cell wall; it consists of a sugar backbone chain interlinked by short peptides. While the sugar backbone is universal for all bacteria, its structure and interlinking peptides varies depending on bacteria taxon (Schleifer and Kandler, 1972). Phage lytic enzymes – endolysins – targeting PG sugars have been shown to reduce bacteria growth in vitro and in vivo, and their use as antimicrobial agents has advanced to the stage of clinical trials (Abdelkader et al., 2019; Vermassen et al., 2019).  Most enzymes under development to this purpose target the sugar backbone of PG, while those targeting PG interlinking peptides have been overlooked (Vermassen et al., 2019). Development of antimicrobial enzymes with endopeptidase activity could broaden the arsenal of know enzymatic antibacterial agents; such peptidase could be developed to target a specific range of bacteria by targeting a specific peptide. In addition, peptidoglycan-associated peptides contain D-amino acids, which are not present in mammalian proteins. Therefore, targeting D-L peptides may contribute to safe use in animals. Large part of phage lysins in nature are modular – having multiple domains with different functions (Vermassen et al., 2019). By combining modules with different enzymatic and peptidoglycan binding activities new desired antibacterial agents can be developed (Gerstmans et al., 2020).
 
+![Peptidoglycan](img/peptidoglycan.svg){ width=500px }
+
 ## Target enzymes
 
-Proteins from the NlpC/P60 family were selected as the target for evolution; these proteins participate in cell growth, and their role is to relax peptidoglycan to allow cell growth and division. The NlpC/P60 domain is a papain-like cysteine peptidase domain approximately 100 amino acids long (Anantharaman and Aravind, 2003). These endopeptidases are involved in the cleavage of the N-acetylmuramate-L-alanine or D-γ-glutamyl-mesodiaminopimelate (Ohnishi et al., 1999). Cleavage of covalent bonds by hydrolases is required for PG growth (Typas et al., 2012). 
+Proteins from the NlpC/P60 family were selected as the target for evolution; these proteins participate in cell growth, and their role is to relax peptidoglycan to allow cell growth and division. Such proteins usually harbor additional peptidoglycan-binding domains. For example, SagA has a coiled coil domain (Espinosa et al., 2020; Hyun et al., 2021) and LytE has 3 LysM  domain repeats (Visweswaran et al., 2014). The goal of this project is to evolve only the NlpC/p60 domain either as s stand-alone protein or fused to native peptidoglycan binding domain. The NlpC/P60 domain is a papain-like cysteine peptidase domain approximately 100 amino acids long (Anantharaman and Aravind, 2003). These endopeptidases are involved in the cleavage of the N-acetylmuramate-L-alanine or D-γ-glutamyl-mesodiaminopimelate (Ohnishi et al., 1999). Cleavage of covalent bonds by hydrolases is required for PG growth (Typas et al., 2012). 
 
 The selection of the NlpC/P60 peptidase family was driven by the following reasons:
 
 * Posibility to be evolved to act as efficient peptidoglycan lysis enzymes;
 * Specificity to peptodoglycan peptides;
-* Small size, appealing for use in medicine and biotechnology.
+* Small size of NlpC/P60 domain, appealing for use in medicine and biotechnology.
 
-We selected two putative proteins: SagA from Enterococcus faecium and LytE from Bacillus subtilis. We also decided to use the standalone Nlpc/P60 domains of SagA and LytE.
+We selected two putative proteins: SagA from Enterococcus faecium and LytE from Bacillus subtilis. We also decided to use the standalone NlpC/P60 domains of SagA and LytE.
+
+![Proteins](img/proteins.png){ width=1000px }
 
 # **References**
