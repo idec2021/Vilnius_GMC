@@ -38,7 +38,6 @@ We selected two putative endolysins: SagA from *Enterococcus faecium* and LytE f
 <span style="font-size: 12px">Figure 1. A) Alphafold2 model of SagA protein. NlpC/P60 domain is yellow, coiled-coil – purple. Protein is also rich in unstructured loops, which are colored in grey. B) Alphafold2 model of LytE protein. NlpC/P60 domain is yellow, LysM repeats are green. C) Crystal structure of SagA NlpC/P602 domain, PDB ID: 6B8C. D) Alphafold2 model of LytE NlpC/P60 domain.<span>
 
 # <span style="font-family:Source Code pro">**References**<span>
-
 <span style="font-size: 14px">Abdelkader, K., Gerstmans, H., Saafan, A., Dishisha, T., and Briers, Y. (2019). The Preclinical and Clinical Progress of Bacteriophages and Their Lytic Enzymes: The Parts are Easier than the Whole. Viruses 11, 96.
 <br/>
 <br/>
