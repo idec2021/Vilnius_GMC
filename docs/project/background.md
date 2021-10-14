@@ -23,18 +23,72 @@ Peptidoglycan is the main component of bacterial cell wall; it consists of a sug
 
 ## <span style="font-family:Source Code pro">X-zymes: targets for evolution</span>
 
-Proteins from the NlpC/P60 family were selected as the target for evolution; these proteins participate in cell growth by relaxing peptidoglycan (Typas et al., 2012) to allow cell growth and division, and they usually harbor multiple peptidoglycan-binding domains. SagA has a coiled coil domain (Espinosa et al., 2020; Hyun et al., 2021) and LytE has three LysM  domain repeats (Visweswaran et al., 2014).
+Proteins from the NlpC/P60 family were selected as the target for evolution. These proteins participate in cell growth by relaxing peptidoglycan, necessary to allow cell growth and division (Typas et al., 2012), and they usually harbour multiple peptidoglycan-binding domains: a coiled coil domain in SagA (Espinosa et al., 2020; Hyun et al., 2021) and three LysM-domain repeats in LytE (Visweswaran et al., 2014).
 The goal of this project is to evolve only the NlpC/p60 domain either as s stand-alone protein or fused to native peptidoglycan binding domain. The NlpC/P60 domain is a papain-like cysteine peptidase domain approximately 100 amino acids long (Anantharaman and Aravind, 2003). These endopeptidases are involved in the cleavage of the N-acetylmuramate-L-alanine or D-γ-glutamyl-mesodiaminopimelate (Ohnishi et al., 1999).
 
 The selection of the NlpC/P60 peptidase family was driven for three main reasons:
 
-* Posibility to be evolved to act as efficient peptidoglycan lysis enzymes;
-* Specificity to peptodoglycan peptides;
+* Potential to be evolved to act as efficient peptidoglycan lysis enzymes;
+* Specificity to peptidoglycan DL-peptides;
 * Small size of NlpC/P60 domain, appealing for use in medicine and biotechnology.
 
-We selected two putative proteins: SagA from Enterococcus faecium and LytE from Bacillus subtilis. We also decided to use the standalone NlpC/P60 domains of SagA and LytE.
+We selected two putative endolysins: SagA from *Enterococcus faecium* and LytE from *Bacillus subtilis*. We also decided to use the standalone NlpC/P60 domains of SagA and LytE.
 
 ![Proteins](img/proteins.png){ width=1000px }
 <span style="font-size: 12px">Figure 1. A) Alphafold2 model of SagA protein. NlpC/P60 domain is yellow, coiled-coil – purple. Protein is also rich in unstructured loops, which are colored in grey. B) Alphafold2 model of LytE protein. NlpC/P60 domain is yellow, LysM repeats are green. C) Crystal structure of SagA NlpC/P602 domain, PDB ID: 6B8C. D) Alphafold2 model of LytE NlpC/P60 domain.<span>
 
-# **References**
+# <span style="font-family:Source Code pro">**References**<span>
+
+<span style="font-size: 14px">Abdelkader, K., Gerstmans, H., Saafan, A., Dishisha, T., and Briers, Y. (2019). The Preclinical and Clinical Progress of Bacteriophages and Their Lytic Enzymes: The Parts are Easier than the Whole. Viruses 11, 96.
+<br/>
+<br/>
+Aminov, R.I. (2010). A Brief History of the Antibiotic Era: Lessons Learned and Challenges for the Future. Front. Microbio. 1.
+<br/>
+<br/>
+Anantharaman, V., and Aravind, L. (2003). Evolutionary history, structural features and biochemical diversity of the NlpC/P60 superfamily of enzymes. Genome Biology 12.
+<br/>
+<br/>
+Chain, E., Florey, H.W., Gardner, A.D., Heatley, N.G., Jennings, M.A., Orr-Ewing, J., Sanders, A.G., and Peltier, L.F. (2005). THE CLASSIC: Penicillin as a Chemotherapeutic Agent: Clinical Orthopaedics and Related Research 439, 23–26.
+<br/>
+<br/>
+Demeure, C.E., Dussurget, O., Mas Fiol, G., Le Guern, A.-S., Savin, C., and Pizarro-Cerdá, J. (2019). Yersinia pestis and plague: an updated view on evolution, virulence determinants, immune subversion, vaccination, and diagnostics. Genes Immun 20, 357–370.
+<br/>
+<br/>
+Espinosa, J., Lin, T.-Y., Estrella, Y., Kim, B., Molina, H., and Hang, H.C. (2020). Enterococcus NlpC/p60 Peptidoglycan Hydrolase SagA Localizes to Sites of Cell Division and Requires Only a Catalytic Dyad for Protease Activity. Biochemistry 59, 4470–4480.
+<br/>
+<br/>
+Gerstmans, H., Grimon, D., Gutiérrez, D., Lood, C., Rodríguez, A., van Noort, V., Lammertyn, J., Lavigne, R., and Briers, Y. (2020). A VersaTile-driven platform for rapid hit-to-lead development of engineered lysins. Sci. Adv. 6, eaaz1136.
+<br/>
+<br/>
+Goossens, H., Ferech, M., Stichele, R.V., and Elseviers, M. (2005). Outpatient antibiotic use in Europe and association with resistance: a cross-national database study. 365, 9.
+<br/>
+<br/>
+Hyun, Y., Baek, Y., Lee, C., Ki, N., Ahn, J., Ryu, S., and Ha, N.-C. (2021). Structure and Function of the Autolysin SagA in the Type IV Secretion System of Brucella abortus. Mol.Cells 44, 517–528.
+<br/>
+<br/>
+Melo, L.D.R., Oliveira, H., Pires, D.P., Dabrowska, K., and Azeredo, J. (2020). Phage therapy efficacy: a review of the last 10 years of preclinical studies. Critical Reviews in Microbiology 46, 78–99.
+<br/>
+<br/>
+Nelson, R.E., Hatfield, K.M., Wolford, H., Samore, M.H., Scott, R.D., Reddy, S.C., Olubajo, B., Paul, P., Jernigan, J.A., and Baggs, J. (2021). National Estimates of Healthcare Costs Associated With Multidrug-Resistant Bacterial Infections Among Hospitalized Patients in the United States. Clinical Infectious Diseases 72, S17–S26.
+<br/>
+<br/>
+Ohnishi, R., Ishikawa, S., and Sekiguchi, J. (1999). Peptidoglycan Hydrolase LytF Plays a Role in Cell Separation with CwlF during Vegetative Growth of Bacillus subtilis. J Bacteriol 181, 3178–3184.
+<br/>
+<br/>
+Schleifer, K.H., and Kandler, O. (1972). Peptidoglycan. Types of Bacterial Cell Walls and their Taxonomic Implications. BACTERIOL. REV. 36, 71.
+<br/>
+<br/>
+Typas, A., Banzhaf, M., Gross, C.A., and Vollmer, W. (2012). From the regulation of peptidoglycan synthesis to bacterial growth and morphology. Nat Rev Microbiol 10, 123–136.
+<br/>
+<br/>
+Vázquez, R., García, E., and García, P. (2018). Phage Lysins for Fighting Bacterial Respiratory Infections: A New Generation of Antimicrobials. Front. Immunol. 9, 2252.
+<br/>
+<br/>
+Vermassen, A., Leroy, S., Talon, R., Provot, C., Popowska, M., and Desvaux, M. (2019). Cell Wall Hydrolases in Bacteria: Insight on the Diversity of Cell Wall Amidases, Glycosidases and Peptidases Toward Peptidoglycan. Front. Microbiol. 10, 331.
+<br/>
+<br/>
+Visweswaran, G.R.R., Leenhouts, K., van Roosmalen, M., Kok, J., and Buist, G. (2014). Exploiting the peptidoglycan-binding motif, LysM, for medical and industrial applications. Appl Microbiol Biotechnol.
+<br/>
+<br/>
+Zaman, S.B., Hussain, M.A., Nye, R., Mehta, V., Mamun, K.T., and Hossain, N. (2017). A Review on Antibiotic Resistance: Alarm Bells are Ringing. Cureus.
+
